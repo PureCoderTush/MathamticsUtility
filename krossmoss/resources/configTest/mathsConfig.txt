@@ -1,0 +1,7 @@
+doSum = true
+doSubtract = false
+doMultiply = true
+doDivide = false
+calFactorial = true
+doLCM = true
+doHCF = false
