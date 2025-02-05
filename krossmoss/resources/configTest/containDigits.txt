@@ -1,0 +1,7 @@
+doSum = 10,20,45,69,78,30
+doSubtract = 1000,5892
+doMultiply = 14,56,20
+doDivide = 45,9
+calFactorial = 500
+doLCM = 78,85,13,45
+doHCF = 85,122,96,63

@@ -1,3 +1,4 @@
+import com.krossmoss.config.AreithmaticOperations;
 import com.krossmoss.config.MathsConfig;
 import com.krossmoss.config.MathsConfigLoader;
 
@@ -18,6 +19,11 @@ public class Main {
             System.err.println("Error reading configuration file: " + e.getMessage());
             System.exit(1);
         }
+
+        AreithmaticOperations.perform();
     }
+
+
+
 
 }
